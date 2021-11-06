@@ -1,13 +1,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theocampos&show_icons=true&border_radius=25&include_all_commits=true&count_private=true">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theocampos&show_icons=true&border_radius=30&langs_count=10&layout=compact">
-</p>
-
 
 <p align="center">
-    <a href="www.linkedin.com/in/théo-campos">
+    <a href="www.linkedin.com/in/théo-campos/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://discordapp.com/users/265494908780019713">
