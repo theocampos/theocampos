@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="www.linkedin.com/in/théo-campos/">
+    <a href="https://www.linkedin.com/in/théo-campos/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://discordapp.com/users/265494908780019713">
