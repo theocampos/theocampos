@@ -16,7 +16,7 @@
 
 <h3><p align="center">CV</p></h3>
 <p align="center">
-    <a href="CV_theocampos.pdf">
+    <a href="cv_theocampos.pdf">
         Click here !
     </a>
 </p>
